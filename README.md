@@ -19,16 +19,15 @@ Remix
     cd BackEnd
 
 ##### 4. Deploying contracts on Ganache
-```shell 
     truffle migrate --reset flag 
-```
+
 
 ##### 5. Running FrontEnd
-```shell
+
     cd FrontEnd/organicchain
     npm install
     npm run start
-```
+
 ##### 6. Connect your accounts to localhost. 
 
 ### Functional demo
