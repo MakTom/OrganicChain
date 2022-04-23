@@ -40,10 +40,10 @@ Remix
 ![Couchdb]( https://i.postimg.cc/nhFqwthn/confirm-transaction.png)
 
 ##### 3. Now, you can sign in to the system and you will see UI based on your role. 
-![Couchdb]( https://i.postimg.cc/MTTRZ0jN/signup.png)
+![Couchdb]( https://i.postimg.cc/1RMmrx2G/login.png)
 
 ##### 4. As, a FARMER you can view details of you all your farms on Home page and actions under Farmer page.
-![Couchdb]( https://i.postimg.cc/1t2KL7YJ/farmer.png)
+![Couchdb]( https://i.postimg.cc/4NL3sC1f/farmer.png)
 
 ##### 5. On farmer page you can add a farm to Organic Chain and tokenize a percentage of your farms produce.
 
