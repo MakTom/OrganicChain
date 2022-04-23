@@ -5,11 +5,11 @@ It allows farmers to tokenize there crops even before sowing them, which enables
 
 ### Technologies & Tools
 
-Reactjs
-Truffle
-Ganache Dekstop Application
-Metamask
-Remix
+Reactjs     
+Truffle     
+Ganache Dekstop Application     
+Metamask        
+Remix       
 
 ### 1. Install Ganache Application
 ### 2. Import few of accounts from Ganache to Metamask for using them during testing.
@@ -19,7 +19,9 @@ Remix
     cd BackEnd
 
 ### 4. Deploying contracts on Ganache
-    ```shell truffle migrate --reset flag ```
+```shell 
+    truffle migrate --reset flag 
+```
 
 ### 5. Running FrontEnd
 ```shell
