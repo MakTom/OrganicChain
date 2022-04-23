@@ -98,10 +98,10 @@ const Login = ({setUser, setUserRole, setUserAddr}) => {
 					</table>
 				</div>
             <div className="container">
-                <div className="input-form">
-                    <form  onSubmit={handleLogin}>
+            
+                    <form  className="input-form" onSubmit={handleLogin}>
                         <div className="input-container">
-                            <label>Name </label>
+                            <label className="label1">Name </label>
                             <input className="input-box"  type="text" value = {userName} required onChange={(e) => setuserName(e.target.value)}/>
                         </div>
                         {/* <div className="input-container">
@@ -109,7 +109,7 @@ const Login = ({setUser, setUserRole, setUserAddr}) => {
                             <input className="input-box"  type="text" value = {userAddress} required onChange={(e) => setuserAddress(e.target.value)}/>
                         </div> */}
                         <div className="input-container">
-                        <label>Role </label>
+                        <label className="label2">Role </label>
                             <select className="input-box" value={userRole} required onChange={(e) => setuserRole(e.target.value)}>
                                 <option value="FARMER">Farmer</option>
                                 <option value="INVESTOR">Investor</option>
@@ -120,7 +120,7 @@ const Login = ({setUser, setUserRole, setUserAddr}) => {
                             <input className="Submit" type="submit" value={butonlabel} />
                         </div>
                     </form>    
-                </div>
+              
             </div>
         </div>
      );
