@@ -20,7 +20,7 @@ Remix
 
 ##### 4. Deploying contracts on Ganache
     truffle migrate --reset flag 
-
+    ![Couchdb](https://i.postimg.cc/j2Ys3tKc/Document6-6.png)
 
 ##### 5. Running FrontEnd
 
